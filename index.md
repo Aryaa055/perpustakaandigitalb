@@ -12,5 +12,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Murder in Mesopotamia](ebook/Murder in Mesopotamia.pdf) - Agatha Christie (1936)
 9. [The ABC murders](ebook/The ABC murders.pdf) - Agatha Christie (2010)
 10. [Murder on the Orient Express](ebook/Murder on the Orient Express.pdf) - Agatha Christie (1934)
+11. [PANDUAN PENGGUNAAN SLIMS](ebook/PANDUAN PENGGUNAAN SLIMS.pdf) - KelompokPATI (2026)
+12. [TRANSFORMASI PERPUSTAKAAN MELALUI TEKNOLOGI INFORMASI](ebook/TRANSFORMASI PERPUSTAKAAN MELALUI TEKNOLOGI INFORMASI.pdf) - MuhArya (2026)
 ---
 *Powered by GitHub Pages*
